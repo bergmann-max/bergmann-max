@@ -1,23 +1,23 @@
 ```
-   .------------------------------------------------.
- /  Hi there 👋                                      \
-|   Some of my hobby projects live                    |
-|   For more, visit https://codeberg.org/maxbergmann  |
- \                                                   /
-  `-------------------------------------------------´                 _
-                                           \                         | \
-                                            \                        | |
-                                             -                       | |
-                                               |\                    | |
-                                              /, ~\                  / /
-                                             X     `-......--------./ /
-                                              ~-. ~  ~               |
-                                                 \              /    |
-                                                  \  /__     ___\   /
-                                                  | /\ ~~~~~~   \ |
-                                                  | | \         || |
-                                                  | |\ \        || )
-                                                 (_/ (_/       ((_/
+   .-----------------------------------------.
+ /  Hi there 👋                               \
+|   Some of my hobby projects live            |
+|   For more, visit codeberg.org/maxbergmann  |
+ \                                            /
+  `------------------------------------------´    _
+                       \                         | \
+                        \                        | |
+                         -                       | |
+                           |\                    | |
+                          /, ~\                  / /
+                         X     `-......--------./ /
+                          ~-. ~  ~               |
+                             \              /    |
+                              \  /__     ___\   /
+                              | /\ ~~~~~~   \ |
+                              | | \         || |
+                              | |\ \        || )
+                             (_/ (_/       ((_/
 ```
 <!--
 **bergmann-max/bergmann-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
