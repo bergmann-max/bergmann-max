@@ -1,7 +1,7 @@
 ```
    .----------------------------------------.
  /  Hi there 👋                              \
-|   Some of my hobby projects live            |
+|   Some of my hobby projects live here       |
 |   For more, visit codeberg.org/maxbergmann  |
  \                                           /
   `-----------------------------------------´                _
