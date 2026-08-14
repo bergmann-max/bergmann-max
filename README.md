@@ -1,8 +1,8 @@
 ```
    .----------------------------------------.
  /  Hi there 👋                              \
-|   Some of my projects live here             |
-|   For more, visit codeberg.org/maxbergmann  |
+|   some of my projects live here             |
+|   for more, visit codeberg.org/maxbergmann  |
  \                                           /
   `-----------------------------------------´   _
                      \                         | \
